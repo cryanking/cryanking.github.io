@@ -1,2 +1,3 @@
-# This is a placeholder
-WIP will be merged here soon.
+# Lecture Notes
+Coagulation in cirrhosis, and VET use in liver transplant
+Abdominal organ transplant for residents
