@@ -8,7 +8,7 @@ Department of Anesthesiology | Division of General Anesthesiology
 ---
 
 ## 🔗 Quick Links
-* 📄 [Curriculum Vitae (PDF)](./CV.pdf) *<!-- Replace with your actual relative path -->*
+* 📄 [Curriculum Vitae (PDF)](./wustl_formatted_cv_2026.pdf) *<!-- Replace with your actual relative path -->*
 * 🎓 [Google Scholar Profile](https://scholar.google.com/citations?user=4N_c4KMAAAAJ)
 * 🆔 [ORCID iD (0000-0002-4574-8616)](https://orcid.org/0000-0002-4574-8616)
 * 📚 [Lecture Notes & Didactics](./lectures/) *<!-- Link to your sub-folder -->*
