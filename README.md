@@ -8,10 +8,10 @@ Department of Anesthesiology | Division of General Anesthesiology
 ---
 
 ## 🔗 Quick Links
-* 📄 [Curriculum Vitae (PDF)](./wustl_formatted_cv_2026.pdf) *<!-- Replace with your actual relative path -->*
+* 📄 [Curriculum Vitae (PDF)](./wustl_formatted_cv_2026.pdf) 
 * 🎓 [Google Scholar Profile](https://scholar.google.com/citations?user=4N_c4KMAAAAJ)
 * 🆔 [ORCID iD (0000-0002-4574-8616)](https://orcid.org/0000-0002-4574-8616)
-* 📚 [Lecture Notes & Didactics](./lectures/) *<!-- Link to your sub-folder -->*
+* 📚 [Lecture Notes & Didactics](./lectures/) 
 
 ---
 
@@ -54,6 +54,6 @@ At this time I am not accepting students or post-docs.
 * **Sub-specialty Focus:** Maintain an active clinical practice (comprising the majority of my time) in the General Anesthesiology Division at **Barnes-Jewish Hospital** (Pod Leader for the 19-OR area spanning Spine, Neurosurgery, ENT, Hepatobiliary, and Transplant)
 * **Transplant Care:** Provide specialized anesthesia care for complex abdominal transplant procedures, personally delivering care for a significant portion of all liver transplants at BJH (21% of the total in 2025). 
 
-
+<!-- ideas: add review of tools, competencies, approaches
 ---
 *Built with Markdown. Maintained in a GitHub repository.*
